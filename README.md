@@ -28,8 +28,8 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![SQL](https://img.shields.io/badge/SQL-SQL-blue)&nbsp;
-![Power Bi](https://img.shields.io/badge/Power%20Bi-Power%20Bi-orange)&nbsp;;
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat)&nbsp;
+![Power Bi](https://img.shields.io/badge/Power%20Bi-Power%20Bi-orange)&nbsp;
 ![Excel](https://img.shields.io/badge/-Excel-05122A?style=flat)&nbsp;
 
 
