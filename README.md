@@ -20,7 +20,9 @@
 
 ### Connect with Me :
 
-<a href="https://www.linkedin.com/in/adham-abdo" target="_blank"><img src="https://img.shields.io/badge/-Adham%20Abdo-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>  <a href="mailto:adhamabdo898@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="https://www.linkedin.com/in/adham-abdo" target="_blank"><img src="https://img.shields.io/badge/-Adham%20Abdo-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+
+<a href="mailto:adhamabdo898@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 ### 🛠 &nbsp;Tech Stack
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
