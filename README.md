@@ -11,12 +11,10 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Data%20Scientist;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-- 🏢 I'm a Computer Science Student and Data Scientist 
+- 🏢 I'm a Computer Science Student and Business Intelligence Developer
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with Python, SQL, and Excel, or anything related to Data Science.
+- 💬 Ask me about my experience with Power bi, Python, SQL, and Excel, or anything related to Business Intelligence.
 - ⚡ Fun Fact: I'm a football professional, a skilled cook, and a fabulous artist
-- 👨‍💻 Check out my portfolio at ---------------------------/ to see some of the projects I've worked on.
-
 
 ### Connect with Me :
 
